@@ -1,0 +1,13 @@
+[package]
+name = "uni_vars"
+version = "1.0.1"
+edition = "2024"
+authors = ["ACatCoder-builds"]
+description = "Global variable library for less experienced rusters!"
+documentation = "https://docs.google.com/document/d/1mEfojTSYm6uPgsk8_sIr60ZxkQ2YSo7Hb00mk5ZHLUI/edit?usp=sharing"
+license = "MIT OR Apache-2.0"
+keywords = ["global", "variables", "macros", "rust"]
+categories = ["development-tools", "data-structures"]
+
+[dependencies]
+lazy_static = "1.5.0"
